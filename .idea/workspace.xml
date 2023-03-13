@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45753b3c-3a09-4f96-88e3-d8514427dc45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediaPlayerOpdracht.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/AdapterPatternMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/AdvancedMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/AudioType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/MediaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Mp4Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/VlcPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/AudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/AudioPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/MediaAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/MediaAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/Mp4Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/Mp4Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/VlcPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/VlcPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,15 +101,6 @@
           <url>file://$PROJECT_DIR$/src/be/intecbrussel/AdapterPatternMain.java</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/be/intecbrussel/AudioPlayer.java</url>
-          <line>12</line>
-          <properties class="be.intecbrussel.AudioPlayer" method="play">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/be/intecbrussel/MediaAdapter.java</url>
