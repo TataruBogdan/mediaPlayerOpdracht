@@ -7,9 +7,8 @@
     <list default="true" id="45753b3c-3a09-4f96-88e3-d8514427dc45" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/AudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/AudioPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/AudioType.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/MediaAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/MediaAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/Mp4Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/Mp4Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/VlcPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/VlcPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/be/intecbrussel/MediaAdapter.java</url>
-          <line>16</line>
+          <line>15</line>
           <properties class="be.intecbrussel.MediaAdapter" method="play">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

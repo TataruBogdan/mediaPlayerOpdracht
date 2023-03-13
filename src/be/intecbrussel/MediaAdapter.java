@@ -4,20 +4,19 @@ public class MediaAdapter implements MediaPlayer{
 
     protected AdvancedMediaPlayer advancedMusicPlayer;
 
-    // parametrul este un string aici
     public MediaAdapter(String audioType) {
-        if (audioType.equalsIgnoreCase(AudioType.MP4.toString())) {
+        if (audioType.equalsIgnoreCase("mp4")) {
             setAdvancedMusicPlayer(new Mp4Player());
-        }else if (audioType.equalsIgnoreCase(AudioType.VLC.toString())){
+        }else if (audioType.equalsIgnoreCase("vlc")){
             setAdvancedMusicPlayer(new VlcPlayer());
         }
     }
 
     @Override
     public void play(String audioType, String fileName) {
-        if (audioType.equalsIgnoreCase(AudioType.VLC.toString())) {
+        if (audioType.equalsIgnoreCase("vlc")) {
             advancedMusicPlayer.playVlc(fileName);
-        } else if (audioType.equalsIgnoreCase(AudioType.MP4.toString())) {
+        } else if (audioType.equalsIgnoreCase("mp4")) {
             advancedMusicPlayer.playMp4(fileName);
         }
     }
